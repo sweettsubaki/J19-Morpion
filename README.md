@@ -2,6 +2,7 @@
 
 Au jour 19 de la formation tHP nous avons donc codé un jeu de Morpion.
 Il se décline en 6 class et un app:
+
 app.rb
 → qui appelle les autres fichiers et permet de les lancer ensemble
 
